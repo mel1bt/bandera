@@ -1,0 +1,12 @@
+div {
+	background-color:#FFFF00;
+	padding: 1px;
+	margin: 8px;
+	display:inline-block;
+}
+p{
+	margin: 8px;
+}
+.dos{
+	background-color:red;
+}
